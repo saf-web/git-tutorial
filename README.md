@@ -12,4 +12,4 @@ BMI = Weight/(Height * Height)
 
 Use the BMI to determine whether the user is overweight, normal or underwheight
 
-exit vim :esc
+exit vim :esc :x
